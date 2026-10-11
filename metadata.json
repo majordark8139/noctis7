@@ -1,0 +1,6 @@
+{
+  "name": "Noctis Music Player",
+  "description": "An exact, source-accurate desktop port of the Noctis lossless music player with word-by-word synced karaoke lyrics, 10-band equalizer, 3D Cover Flow, and Windows 7 compatibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
